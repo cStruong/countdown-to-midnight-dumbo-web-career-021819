@@ -5,4 +5,5 @@ def countdown(n)
   
   while currentCount > 0
     puts "#{n} SECOND(S)!"
+  
 end
